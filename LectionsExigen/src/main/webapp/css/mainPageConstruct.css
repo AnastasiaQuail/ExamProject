@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 850px;
+    text-align: center;
+    margin: 20px auto;
+}
+#header {
+    height: 250px;
+    width:900px;
+    background: #cfe8ef;
+      font-family: 'American Typewriter', Courier, monospace;
+            font-size: 50px;
+            color: #333333;
+}
+#main {
+width: 900
+height:900
+background: #eee
+ }
+
+#roomtable {
+    height: 600px;
+    width: 900px;
+    background: #e9edf0;
+    position:relative;
+
+}
+
+#searchLine {
+    height: 63px;
+    float: center;
+    margin-bottom:30px;
+    background: #cca;
+    position:relative;
+}
+#time {
+    height: 60px;
+    float:left;
+    background: #aba;
+    position:absolute;
+}
+#option {
+    height: 60px;
+    float:center;
+    background: #aba;
+    position:absolute;
+}
+
+.roomBox {
+    height: 100px;
+    width: 100px;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    margin: 21px 14px 6px;
+    float: center;
+    background: #838af6;
+}
+.roomBoxLeft {
+    height: 100px;
+    width: 100px;
+    position:absolute;
+   float:right;
+    margin: 21px 14px 6px;
+    float: center;
+    background: #838af6;
+}
+
+.roomLabelText {
+     float: center;
+        margin: 20px 0 0 70px;
+        font-family: 'American Typewriter', Courier, monospace;
+        font-size: 20px;
+        color: #333333;
+}
+.searchWiget{
+    height: 50px;
+    width: 100px;
+    float: inherit;
+    position:absolute;
+}
+#footer {
+    height: 60px;
+    clear: left;
+    color:#cfe8ef;
+
+}
+hr {
+    border: 0;
+    background-color: #cfe8ef;
+    height: 1px;
+    margin: 0 25px;
+
+}

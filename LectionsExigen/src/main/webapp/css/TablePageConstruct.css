@@ -1,0 +1,12 @@
+.Textbox{
+  height:40px;
+    float:center;
+    background #aae
+}
+#table_box{
+  height:40px;
+    width:60px;
+    float:center;
+    background #aaa;
+    position:relative;
+}
